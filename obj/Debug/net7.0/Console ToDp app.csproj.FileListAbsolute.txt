@@ -1,0 +1,15 @@
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/bin/Debug/net7.0/Console ToDp app
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/bin/Debug/net7.0/Console ToDp app.deps.json
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/bin/Debug/net7.0/Console ToDp app.runtimeconfig.json
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/bin/Debug/net7.0/Console ToDp app.dll
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/bin/Debug/net7.0/Console ToDp app.pdb
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.csproj.AssemblyReference.cache
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.AssemblyInfoInputs.cache
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.AssemblyInfo.cs
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.dll
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/refint/Console ToDp app.dll
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.pdb
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/Console ToDp app.genruntimeconfig.cache
+/Users/artem/Desktop/C#/01-ToDoList/Console ToDp app/obj/Debug/net7.0/ref/Console ToDp app.dll

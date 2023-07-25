@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Console ToDp app/1.0.0": {
+        "runtime": {
+          "Console ToDp app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console ToDp app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
