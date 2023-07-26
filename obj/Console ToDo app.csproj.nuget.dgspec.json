@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/artem/Desktop/C#/01-Basics/Console ToDp app/Console ToDp app.csproj": {}
+    "/Users/artem/Desktop/C#/01-Basics/Console ToDo app/Console ToDo app.csproj": {}
   },
   "projects": {
-    "/Users/artem/Desktop/C#/01-Basics/Console ToDp app/Console ToDp app.csproj": {
+    "/Users/artem/Desktop/C#/01-Basics/Console ToDo app/Console ToDo app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artem/Desktop/C#/01-Basics/Console ToDp app/Console ToDp app.csproj",
-        "projectName": "Console ToDp app",
-        "projectPath": "/Users/artem/Desktop/C#/01-Basics/Console ToDp app/Console ToDp app.csproj",
+        "projectUniqueName": "/Users/artem/Desktop/C#/01-Basics/Console ToDo app/Console ToDo app.csproj",
+        "projectName": "Console ToDo app",
+        "projectPath": "/Users/artem/Desktop/C#/01-Basics/Console ToDo app/Console ToDo app.csproj",
         "packagesPath": "/Users/artem/.nuget/packages/",
-        "outputPath": "/Users/artem/Desktop/C#/01-Basics/Console ToDp app/obj/",
+        "outputPath": "/Users/artem/Desktop/C#/01-Basics/Console ToDo app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artem/.nuget/NuGet/NuGet.Config"

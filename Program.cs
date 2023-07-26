@@ -47,6 +47,7 @@ void SeeAllTodos()
         ShowNoTodosMessage();
         return;
     }
+
     for (int i = 0; i < todos.Count; i++)
     {
         Console.WriteLine($"{i + 1}. {todos[i]}");
@@ -60,8 +61,8 @@ void AddTodo()
     {
         Console.WriteLine("Enter the TODO description:");
         description = Console.ReadLine();
-    }
-    while (!IsDescriptionValid(description));
+    } while (!IsDescriptionValid(description));
+
     todos.Add(description);
 }
 
@@ -72,11 +73,13 @@ bool IsDescriptionValid(string description)
         Console.WriteLine("The description cannot be empty");
         return false;
     }
+
     if (todos.Contains(description))
     {
         Console.WriteLine("The description must be unique.");
         return false;
     }
+
     return true;
 }
 
@@ -107,12 +110,14 @@ bool TryReadIndex(out int index)
         Console.WriteLine("Selected index cannot be empty");
         return false;
     }
+
     if (int.TryParse(userInput, out index) &&
         index >= 1 &&
         index <= todos.Count)
     {
         return true;
     }
+
     Console.WriteLine("The given index is not valid.");
     return false;
 }
